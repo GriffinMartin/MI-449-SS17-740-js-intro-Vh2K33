@@ -1,0 +1,17 @@
+.content {
+  padding-top: 50px; 
+}
+.head-live {
+}
+.small-centered {
+  text-align: center;
+}
+.content {
+  padding-top: 25px; 
+}
+.button {
+  padding: 40px;
+}
+.button:nth-child(odd) {
+  background:red;
+}
