@@ -1,9 +1,9 @@
 // audio file variables
-var boom = new Audio('/sounds/boom.wav');
-var clap = new Audio('/sounds/clap.wav');
-var kick = new Audio('/sounds/kick.wav');
-var snare = new Audio('/sounds/snare.wav');
-var tink = new Audio('/sounds/tink.wav');
+var boom = new Audio('sounds/boom.wav');
+var clap = new Audio('sounds/clap.wav');
+var kick = new Audio('sounds/kick.wav');
+var snare = new Audio('sounds/snare.wav');
+var tink = new Audio('sounds/tink.wav');
 
 // button variables
 var boomButton = document.getElementById('boom');
